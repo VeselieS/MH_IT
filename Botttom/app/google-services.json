@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "828805717030",
+    "firebase_url": "https://mh-it-base-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mh-it-base",
+    "storage_bucket": "mh-it-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828805717030:android:ea272f022596b648c19ae7",
+        "android_client_info": {
+          "package_name": "com.example.botttom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828805717030-sd6reoguf39mi1jl173pulpuef9g9vg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.botttom",
+            "certificate_hash": "14439e00dc7c47ec8bc77f867c973fca7056bc9b"
+          }
+        },
+        {
+          "client_id": "828805717030-hk4ll4jg651rdskovmp9nbeb2aelqpri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PIz7i91HTnj6z423p5uoNkq2M1nee2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828805717030-b8n1fqhiphbjobcn3ti1f8dlnbdb6dlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828805717030:android:abd37f63da633c7bc19ae7",
+        "android_client_info": {
+          "package_name": "com.example.mhit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828805717030-u0ho71eibnhgoq1j2qh2cl3c5j6bhs30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mhit",
+            "certificate_hash": "14439e00dc7c47ec8bc77f867c973fca7056bc9b"
+          }
+        },
+        {
+          "client_id": "828805717030-hk4ll4jg651rdskovmp9nbeb2aelqpri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PIz7i91HTnj6z423p5uoNkq2M1nee2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828805717030-b8n1fqhiphbjobcn3ti1f8dlnbdb6dlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
